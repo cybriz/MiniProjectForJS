@@ -1,5 +1,7 @@
 html {
   font-size: 10px;
+}
+body {
   background: url(drum.jpg) bottom center;
   background-size: cover;
 }
