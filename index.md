@@ -1,6 +1,6 @@
 ## Welcome to Cybriz MiniProjectForJS
 
-<a href="/The Sound Of Drum!/index.html"><img src="drum.jpg" alt="drum"></a>
+<a href="https://cybriz.github.io/MiniProjectForJS/The Sound Of Drum!/index.html"><img src="drum.jpg" alt="drum"></a>
 
 You can use the [editor on GitHub](https://github.com/cybriz/MiniProjectForJS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
