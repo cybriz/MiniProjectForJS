@@ -10,7 +10,8 @@ body,html {
   padding: 0;
   font-family: sans-serif;
 }
-
+.blurry {
+}
 .keys {
   display: flex;
   flex: 1;
