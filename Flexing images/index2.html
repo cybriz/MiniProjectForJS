@@ -132,19 +132,14 @@
       }
     }
 
-        console.time("panel")
-    panels.forEach(panel => panel.addEventListener('click', toggleOpen)); 
-        console.timeEnd("panel")
-    
-        console.time("panel")
-   panels.forEach(function (panel){
-    panel.addEventListener('click', toggleOpen);
-   });
-        console.timeEnd("panel")
-    
-      panels.forEach(function (panel){
-    panel.addEventListener('transitionend', toggleActive);
-   });
+
+   panels.forEach(panel => panel.addEventListener('click', toggleOpen)); //panel: 0.091796875ms
+ 
+//    panels.forEach(function (panel){
+//     panel.addEventListener('click', toggleOpen);   //panel: 0.4248046875ms
+//    });
+  
+    panels.forEach(panel => panel.addEventListener('transitionend', toggleActive));
     
   </script>
 
