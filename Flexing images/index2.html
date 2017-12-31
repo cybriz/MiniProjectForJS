@@ -132,9 +132,16 @@
       }
     }
 
-       panels.forEach(function (panel){
+        console.time("panel")
+    panels.forEach(panel => panel.addEventListener('click', toggleOpen)); 
+        console.timeEnd("panel")
+    
+        console.time("panel")
+   panels.forEach(function (panel){
     panel.addEventListener('click', toggleOpen);
    });
+        console.timeEnd("panel")
+    
       panels.forEach(function (panel){
     panel.addEventListener('transitionend', toggleActive);
    });
