@@ -1,8 +1,9 @@
 ## Welcome to Cybriz MiniProjectForJS
 
 <a href="https://cybriz.github.io/MiniProjectForJS/The Sound Of Drum!/index.html"><img src="drum.jpg" alt="drum"></a>
-<a href="https://cybriz.github.io/MiniProjectForJS/Flexing%20images/index2.html"> alt="Flex"></a>
+<a href="https://cybriz.github.io/MiniProjectForJS/Flexing%20images/index2.html"><img src="https://i.imgur.com/0x8ZM4L.png" title="source: imgur.com"></a> alt="Flex"></a>
 <a href="https://cybriz.github.io/MiniProjectForJS/Spacing and Blur/index2.html"> alt="Space&blur"></a>
+
 You can use the [editor on GitHub](https://github.com/cybriz/MiniProjectForJS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
