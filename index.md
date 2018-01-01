@@ -4,7 +4,8 @@
 <a href="https://cybriz.github.io/MiniProjectForJS/Flexing%20images/index2.html"><img src="https://i.imgur.com/0x8ZM4L.png" alt="Flex"></a>
 <a href="https://cybriz.github.io/MiniProjectForJS/Spacing and Blur/index2.html"><img src="https://i.imgur.com/pGMEzrz.jpg" alt="Space&blur"></a>
 <a href="https://cybriz.github.io/MiniProjectForJS/canvas/index2.html"><img src="https://i.imgur.com/3m2CUAp.jpg" alt="Canvas"></a>
-<a href="https://cybriz.github.io/MiniProjectForJS/filter US city or state/index2.html"><img src="https://i.imgur.com/oQRDIcq.png"  alt="Filter" align="middle"></a> 
+<a href="https://cybriz.github.io/MiniProjectForJS/filter US city or state/index2.html"><img src="https://i.imgur.com/oQRDIcq.png" align="middle" alt="Filter"></a> 
+<a href="https://cybriz.github.io/MiniProjectForJS/Hold Shift and Tick Multiple Checkboxes/index2.html"><img src="https://i.imgur.com/tbL9sun.png"  alt="Filter"></a> 
 
 You can use the [editor on GitHub](https://github.com/cybriz/MiniProjectForJS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
