@@ -5,7 +5,7 @@
   <title>Canvas</title>
 </head>
 <body>
-<h2>Draw your own <span class='hl'>canvas</span> by using your left-mouse</h2>
+<h2>Draw your own <span class='hl'>canvas</span> by using your mouse</h2>
 <canvas id="draw" width="800" height="800"></canvas>
 <script>
 const canvas = document.querySelector('#draw');
@@ -16,7 +16,7 @@ ctx.strokeStyle = '#BADA55';
 ctx.lineJoin = 'round';
 ctx.lineCap = 'round';
 ctx.lineWidth = 100;
-// ctx.globalCompositeOperation = 'multiply';
+
 
 let isDrawing = false;
 let lastX = 0;
@@ -24,17 +24,17 @@ let lastY = 0;
 let hue = 0;
 let direction = true;
 
-function draw(e) {
+function draw(drawing) {
   if (!isDrawing) return; // stop the fn from running when they are not moused down
-  console.log(e);
+  console.log(drawing);
   ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
   ctx.beginPath();
   // start from
   ctx.moveTo(lastX, lastY);
   // go to
-  ctx.lineTo(e.offsetX, e.offsetY);
+  ctx.lineTo(drawing.offsetX, drawing.offsetY);
   ctx.stroke();
-  [lastX, lastY] = [e.offsetX, e.offsetY];
+  [lastX, lastY] = [drawing.offsetX, drawing.offsetY];
   
   hue++;
   if (hue >= 360) {
@@ -51,9 +51,9 @@ function draw(e) {
   }
 }
 
-canvas.addEventListener('mousedown', (e) => {
+canvas.addEventListener('mousedown', (OnceMouseClicked) => {
   isDrawing = true;
-  [lastX, lastY] = [e.offsetX, e.offsetY];
+  [lastX, lastY] = [OnceMouseClicked.offsetX, OnceMouseClicked.offsetY];
 });
 
 
