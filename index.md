@@ -6,6 +6,8 @@
 <a href="https://cybriz.github.io/MiniProjectForJS/canvas/index2.html"><img src="https://i.imgur.com/3m2CUAp.jpg" alt="Canvas"></a>
 <a href="https://cybriz.github.io/MiniProjectForJS/filter US city or state/index2.html"><img src="https://i.imgur.com/oQRDIcq.png" align="middle" alt="Filter"></a> 
 <a href="https://cybriz.github.io/MiniProjectForJS/Hold Shift and Tick Multiple Checkboxes/index2.html"><img src="https://i.imgur.com/tbL9sun.png"  alt="Filter"></a> 
+<a href="https://cybriz.github.io/MiniProjectForJS/Shadow Move/index2.html"><img src="https://imgur.com/HvFFMSe"  alt="ShadowMove"></a> 
+<a href="https://cybriz.github.io/MiniProjectForJS/A Simple Click and Drag Motion/index2.html"><img src="https://imgur.com/USKyHEz"  alt="Drag&Move"></a> 
 
 You can use the [editor on GitHub](https://github.com/cybriz/MiniProjectForJS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
