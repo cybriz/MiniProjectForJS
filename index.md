@@ -10,6 +10,7 @@
 <a href="https://cybriz.github.io/MiniProjectForJS/A Simple Click and Drag Motion/index2.html"><img src="https://i.imgur.com/USKyHEz.png"  alt="Drag&Move"></a> 
 <a href="https://cybriz.github.io/MiniProjectForJS/Your Storage/index.html"><img src="https://i.imgur.com/UNs6wN6.jpg"  alt="YourMenu"></a> 
 <a href="https://cybriz.github.io/MiniProjectForJS/Customise Video Player/index.html"><img src="https://i.imgur.com/qJJQcu9.png"  alt="YourMenu"></a>
+<a href="https://cybriz.github.io/MiniProjectForJS/A Normal Clock/index.html"><img src="https://i.imgur.com/9LXsRru.jpg"  alt="YourMenu"></a>
 
 You can use the [editor on GitHub](https://github.com/cybriz/MiniProjectForJS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
