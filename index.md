@@ -2,6 +2,9 @@
 <font size="6">DOTA2 Web Design</font>
 <a href="https://cybriz.github.io/MiniProjectForJS/dota webpage/index.html"><img src="https://i.imgur.com/TeBnfvM.jpg" alt="dota_webpage"></a>
 
+<font size="6">Single Web Page Using w3.css</font>
+<a href="https://cybriz.github.io/MiniProjectForJS/loke_w3css/index.html"><img src="https://i.imgur.com/ZCgtTBa.jpg" alt="SWP"></a>
+
 <font size="6">The Sound of Drum!</font>
 <a href="https://cybriz.github.io/MiniProjectForJS/The Sound Of Drum!/index.html"><img src="drum.jpg" alt="drum"></a>
 
