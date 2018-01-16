@@ -1,5 +1,5 @@
 ## Welcome to Cybriz MiniProjectForJS
-<font size="6" text-align=center>DOTA2 Web Design</font>
+<div font size="6" style="text-align:center">DOTA2 Web Design</font></div>
 <a href="https://cybriz.github.io/MiniProjectForJS/dota webpage/index.html"><img src="https://i.imgur.com/TeBnfvM.jpg" alt="dota_webpage"></a>
 
 <font size="6">SocialLab</font>
