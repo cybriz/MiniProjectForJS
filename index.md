@@ -3,7 +3,7 @@
 <a href="https://cybriz.github.io/MiniProjectForJS/dota webpage/index.html"><img src="https://i.imgur.com/TeBnfvM.jpg" alt="dota_webpage"></a>
 
 <font size="6">SocialLab</font>
-<a href="https://cybriz.github.io/MiniProjectForJS/SocialLab/src/index.html"><img src="" alt="SocialLab"></a>
+<a href="https://cybriz.github.io/MiniProjectForJS/SocialLab/src/index.html"><img src="https://i.imgur.com/6qbFXLu.jpg" alt="SocialLab"></a>
 
 <font size="6">Single Web Page Using w3.css</font>
 <a href="https://cybriz.github.io/MiniProjectForJS/loke_w3css/index.html"><img src="https://i.imgur.com/ZCgtTBa.jpg" alt="SWP"></a>
