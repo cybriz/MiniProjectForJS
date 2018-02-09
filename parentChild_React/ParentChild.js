@@ -4,7 +4,7 @@
  * http://stackoverflow.com/questions/24147331/react-the-right-way-to-pass-form-element-state-to-sibling-parent-elements
  * Now I have the state in parent and child. Is that good or bad? Why would I need it in child?
  * Could probably take that out
- * Run the code in jsfiddle or plunker
+ * Run the code in jsfiddle, plunker or codepen
  * */
 class Parent extends React.Component {
   constructor(props) {
