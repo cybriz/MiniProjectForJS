@@ -1,4 +1,4 @@
-//https://embed.plnkr.co/plunk/VrxQIt  
+//https://plnkr.co/edit/LMXFPeodM2fzigbf4wJI?p=preview
 //Check it out for link above
 
 const scaleNames = {
