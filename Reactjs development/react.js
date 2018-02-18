@@ -1,3 +1,6 @@
+//https://embed.plnkr.co/plunk/VrxQIt  
+//Check it out for link above
+
 const scaleNames = {
   c: 'Celsius',
   f: 'Fahrenheit'
